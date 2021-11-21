@@ -4,22 +4,22 @@ These are racks that are sized to hold cartridges for the TI-99/4a home computer
 
 ## Assembly
 
-**Supplies**
+### Supplies
 
 - 2 x top pieces (one will become the middle)
 - 1 x bottom piece
 
-*** For 4, 6, or 8 cartridge racks
+**For 4, 6, or 8 cartridge racks**
 - 4 x 20mm M3 Standoffs (male/female)
 - 4 x 10mm M3 Standoffs (female/female)
 - 8 x M3 Screws
 
-*** For 16 cartridge rack
+**For 16 cartridge rack**
 - 9 x 20mm M3 Standoffs (male/female)
 - 9 x 10mm M3 Standoffs (female/female)
 - 18 x M3 Screws
 
-**Procedure**
+### Procedure
 
 1. Attach 20mm Standoffs to the top with M3 screws 
 2. Slide middle piece onto the male end of the standoffs
