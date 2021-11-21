@@ -1,6 +1,7 @@
 # TI-99/4A Cartridge Racks
 
-These are racks that are sized to hold cartridges for the TI-99/4a home computer system.  Three sizes are provided for 4, 6, 8, or 16 cartridge racks.  Feel free to modify for your particular needs.  Files are DXF for most compatiblity, they will load right into K40 whisperer as a cut file, units are in mm.
+These are racks that are sized to hold cartridges for the TI-99/4a home computer system.  Four sizes are provided for 4, 6, 8, or 16 cartridge racks.  Feel free to modify for your particular needs.  The 16 cartridge rack is basically a double width 8 cartridge rack.
+Files are DXF for most compatiblity, they will load right into K40 whisperer as a cut file, units are in mm.
 
 ## Assembly
 
